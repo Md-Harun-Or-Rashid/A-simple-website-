@@ -1,0 +1,10 @@
+body{background: url("29.jpg") no-repeat;
+background-size: cover;
+font-family: Arial;}
+ul{list-style-type:none;margin:0px;padding:0px;}
+ul li{float:left;width:300px;height:40px;line-height:40px;font-size:20px;background-color:black;opacity:.7;margin-right:4px;}
+ul li a{text-decoration:none;color:white;display:block;margin:0px;padding:0px;}
+ul li a:hover{background-color:green;}
+ul li ul li{display:none;}
+ul li:hover ul li{display:block;}
+.btn-pageone{float:right;line-height:30px;margin-top:40%;background-color:#fc5603;color:white;margin-right:5px;}
